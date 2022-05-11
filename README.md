@@ -6,4 +6,5 @@ I'm a Solution Engineer at HashiCorp.
 - 🌱 I’m currently learning: [go](https://github.com/golang/go)
 - 😄 Pronouns: he/him
 - 🌍 [Website](https://devopstower.io)
+- 🥷 [HashiCorp workflows and demos](https://github.com/jamiewri/hashicorp)
 
