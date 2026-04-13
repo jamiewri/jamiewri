@@ -6,6 +6,7 @@ I'm a Solution Engineer at HashiCorp.
 - 🌱 I’m currently learning: [langchain](https://github.com/langchain-ai)
 - 😄 Pronouns: he/him
 - 🌍 [Website](https://jamiewright.io)
+- 📖 [Upcert.io](https://upcert.io)
 - :tv: [YouTube](https://www.youtube.com/playlist?list=PLEry7neehQoL-YppyjZa9cDv-PjjH6rtR)
 - 🥷 [HashiCorp workflows and demos](https://github.com/jamiewri/hashicorp)
 
